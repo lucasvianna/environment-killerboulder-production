@@ -1,0 +1,3 @@
+[submodule "dockerfile-examples"]
+	path = dockerfile-examples
+	url = https://github.com/lucasvianna/dockerfile-examples
